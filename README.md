@@ -15,3 +15,4 @@
 # Installation :books:
 ### System Requirements
 * [Beak](https://beakit.com/)
+<img src="https://t.bkit.co/w_669558fd1017f.gif" />
